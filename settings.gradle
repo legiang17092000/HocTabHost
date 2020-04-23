@@ -1,0 +1,2 @@
+rootProject.name='HocTabHost'
+include ':app'
